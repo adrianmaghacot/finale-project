@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Brick Breaker BUT Extreme
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A game of brick breaker, but every time it hits the platform, it gets faster.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+The project will be a standard game of brick breaker that was present in many older generations of phones. However, this will be developed using the Unity engine, potentially making the process easier. The features include the platform, starting ball, bricks, and small power ups that help complete the level (extra balls). As long as the ball hits the user's platform, it will get faster, so the game should get hard quick.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+None
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+None
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome is a game of brick breaker that gets faster everytime, but powerups don't work.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A game of brick breaker with the power ups working, but the aesthetics are not what I wanted.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The brick breaker game being fully polished and what I feel can be given out to the public.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+My next steps is to play different versions of brick breaker and take notes what I want to implement. I also want to look over the Unity platform and see how it works. Since game development is a field I am not familiar with, it would be a good idea to see how I can approach this, whether through YouTube or asking some friends on their journies with development.

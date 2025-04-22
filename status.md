@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Adrian Maghacot
 
 #### Your section leader's name
 
-TODO
+Adrian Maghacot
 
 #### Project title
 
-TODO
+Advanced Brick Breaker
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Went over Unity engine and managed to create a raw game of just standard brick breaker.
 
 #### What have you not done for your project yet?
 
-TODO
+Some small things including making the game faster after each hit of the small controllable bar and figuring out a way of making the levels harder.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Surpisingly not many, but Unity is a little but of a learning curve, but I understood the process relatively quickly.
